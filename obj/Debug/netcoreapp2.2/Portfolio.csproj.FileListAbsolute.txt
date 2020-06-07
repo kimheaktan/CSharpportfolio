@@ -1,0 +1,14 @@
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.csprojAssemblyReference.cache
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorAssemblyInfo.cache
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorAssemblyInfo.cs
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.AssemblyInfoInputs.cache
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.AssemblyInfo.cs
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.deps.json
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.runtimeconfig.json
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.runtimeconfig.dev.json
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.dll
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/bin/Debug/netcoreapp2.2/Portfolio.pdb
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.RazorTargetAssemblyInfo.cache
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.dll
+/Users/user/coding dojo/csharpNew/asp1/Portfolio/obj/Debug/netcoreapp2.2/Portfolio.pdb
